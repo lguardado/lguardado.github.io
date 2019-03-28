@@ -486,7 +486,7 @@ var EducationComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<h2 mat-dialog-title class=\"title\">{{ 'FEEDBACK.MODAL_TITLE' | translate }}</h2>\n<div mat-dialog-content class=\"modal-dialog-content\">\n   \n  <p innerHTML=\"{{ 'FEEDBACK.' + 'FEEDBACK_' + data + '.FEEDBACK' | translate }}\"></p>\n  <p>{{ 'FEEDBACK.FEEDBACK_' + data + '.DATE' | translate }}</p>\n  <p>{{ 'FEEDBACK.FEEDBACK_' + data + '.PROJECT' | translate }}</p>\n  \n<div mat-dialog-actions>\n  <button class=\"modal-button\" mat-button (click)=\"onNoClick()\">Close</button>\n</div>"
+module.exports = "<h2 mat-dialog-title class=\"title\">{{ 'FEEDBACK.MODAL_TITLE' | translate }}</h2>\n<div mat-dialog-content class=\"modal-dialog-content\">\n   \n  <p innerHTML=\"{{ 'FEEDBACK.' + 'FEEDBACK_' + data + '.FEEDBACK' | translate }}\"></p>\n  <p>{{ 'FEEDBACK.FEEDBACK_' + data + '.DATE' | translate }}</p>\n  <p>{{ 'FEEDBACK.FEEDBACK_' + data + '.PROJECT' | translate }}</p>\n</div>\n<div mat-dialog-actions>\n  <button class=\"modal-button\" mat-button (click)=\"onNoClick()\">Close</button>\n</div>"
 
 /***/ }),
 
@@ -497,7 +497,7 @@ module.exports = "<h2 mat-dialog-title class=\"title\">{{ 'FEEDBACK.MODAL_TITLE'
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".title {\n  font-size: 40px; }\n\n.modal-button {\n  height: 80px; }\n\n.modal-dialog-content {\n  max-height: 90vw; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9sdWNhc2d1YXJkYWRvL25nLXBvcnRmb2xpby9zcmMvYXBwL2ZlZWRiYWNrLW1vZGFsL2ZlZWRiYWNrLW1vZGFsLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUVBO0VBQ0UsZ0JBQWUsRUFDaEI7O0FBRUQ7RUFDRSxhQUFZLEVBQ2I7O0FBRUQ7RUFDRSxpQkFBZ0IsRUFDakIiLCJmaWxlIjoic3JjL2FwcC9mZWVkYmFjay1tb2RhbC9mZWVkYmFjay1tb2RhbC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgJy4uLy4uL2Nzcy9zdHlsZXMvdmFyaWFibGVzJztcblxuLnRpdGxlIHtcbiAgZm9udC1zaXplOiA0MHB4O1xufVxuXG4ubW9kYWwtYnV0dG9uIHtcbiAgaGVpZ2h0OiA4MHB4O1xufVxuXG4ubW9kYWwtZGlhbG9nLWNvbnRlbnQge1xuICBtYXgtaGVpZ2h0OiA5MHZ3O1xufSJdfQ== */"
+module.exports = ".title {\n  font-size: 40px; }\n\n.modal-button {\n  height: 80px; }\n\n.modal-dialog-content {\n  max-height: 100vw; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9sdWNhc2d1YXJkYWRvL25nLXBvcnRmb2xpby9zcmMvYXBwL2ZlZWRiYWNrLW1vZGFsL2ZlZWRiYWNrLW1vZGFsLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUVBO0VBQ0UsZ0JBQWUsRUFDaEI7O0FBRUQ7RUFDRSxhQUFZLEVBQ2I7O0FBRUQ7RUFDRSxrQkFBaUIsRUFDbEIiLCJmaWxlIjoic3JjL2FwcC9mZWVkYmFjay1tb2RhbC9mZWVkYmFjay1tb2RhbC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgJy4uLy4uL2Nzcy9zdHlsZXMvdmFyaWFibGVzJztcblxuLnRpdGxlIHtcbiAgZm9udC1zaXplOiA0MHB4O1xufVxuXG4ubW9kYWwtYnV0dG9uIHtcbiAgaGVpZ2h0OiA4MHB4O1xufVxuXG4ubW9kYWwtZGlhbG9nLWNvbnRlbnQge1xuICBtYXgtaGVpZ2h0OiAxMDB2dztcbn0iXX0= */"
 
 /***/ }),
 
